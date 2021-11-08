@@ -20,7 +20,7 @@ All options are well commented within the swaggervel.php config file.
 The actual Swagger spec is beyond the scope of this package. All Swaggervel does is package up swagger-php and swagger-ui in a Laravel-friendly fashion, and tries to make it easy to serve. For info on how to use swagger-php [look here](http://zircote.com/swagger-php/). For good examples of swagger-php in action [look here](https://github.com/zircote/swagger-php/tree/master/Examples).
 
 ## Further Notes
-This package is a fork of [onavascuez/swaggervel](https://github.com/onavascuez/swaggervel), as it is no longer maintained.
+This package is a fork of [appointer/swaggervel](https://github.com/appointer/swaggervel), as it is no longer maintained.
 
 ## TODO
 - the handling of the /doc call is still really inconsistent, as you cannot change the file name (api-docs.json), but are able to change the file you acces when using the /doc route.

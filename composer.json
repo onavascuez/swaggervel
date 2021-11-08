@@ -24,13 +24,13 @@
     },
     "autoload": {
         "psr-0": {
-            "Appointer\\Swaggervel": "src/"
+            "Onavascuez\\Swaggervel": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Appointer\\Swaggervel\\SwaggervelServiceProvider"
+                "Onavascuez\\Swaggervel\\SwaggervelServiceProvider"
             ]
         }
     }

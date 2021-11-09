@@ -1,4 +1,4 @@
-# Swaggervel (Swagger integration for Laravel)
+# Swaggervel (Swagger integration compatible for Laravel 8)
 This package combines [Swagger-php](https://github.com/zircote/swagger-php) and [swagger-ui](https://github.com/swagger-api/swagger-ui) into one Laravel-friendly package.
 When you run your app in debug mode, Swaggervel will scan your app folder (or any folder that is set under the "app-dir" variable in the packages config), generate swagger json files and deposit them to the doc-dir folder (default is `/docs`). Files are then served by swagger-ui under the api-docs director.
 
